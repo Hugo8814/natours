@@ -9,7 +9,7 @@ Dark green: #28b485
 *,
 *::after *::before {
   margin: 0;
-  padding: 0;
+  padding: 1;
   box-sizing: inherit; }
 
 html {
